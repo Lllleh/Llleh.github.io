@@ -1,5 +1,29 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    list-style: none;
     box-sizing: border-box;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+.img-start {
+    box-sizing: border-box;
+    border: 20px solid skyblue;
+}
+
+.relative {
+    margin-left: 64px
+    background: palevioletred;
+    width: 500px;
+    height: 500px;
+}
+
+.absolute{
+    background: aliceblue;
+    width: 100px;
+    height: 100px;
 }
